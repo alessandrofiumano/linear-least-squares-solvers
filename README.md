@@ -1,4 +1,3 @@
-
 # Project 20 (Non-ML)
 
 (P) is the linear least squares problem
@@ -21,8 +20,7 @@ X^T & 0
 \begin{bmatrix}
 r \\
 w
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 y \\
 0
